@@ -8,6 +8,4 @@ class StaticPagesController < ApplicationController
     @dog = Dog.new
   end
 
-
-
 end
